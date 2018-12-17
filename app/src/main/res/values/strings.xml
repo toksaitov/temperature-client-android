@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Temperature</string>
+    <string name="load_failure_toast_message">Failed to load the temperature data…</string>
+    <string name="failed_to_parse_data_toast_message">Failed to get valid temperature data</string>
+    <string name="noDataTemperatureTextViewText">-- °C</string>
+    <string name="historyMenuItemTitle">History</string>
+    <string name="temperatureFormat">%.2f °C</string>
+</resources>
